@@ -1,8 +1,8 @@
 # Supplementary Material for "Following Majority Rule versus Deferring to Elders: Educational Background Shapes Group Decision Preference in Burmese Children"
 
-Nakawake, Y., & Stanford, M. (2021, April 5). Following Majority Rule versus Deferring to Elders: Educational Background Shapes Group Decision Preference in Burmese Children. https://doi.org/10.31234/osf.io/jm3d
+Nakawake, Y., & Stanford, M. (2021, April 5). Following Majority Rule versus Deferring to Elders: Educational Background Shapes Group Decision Preference in Burmese Children. 
 
-A preprint of the paper on PsyArXiv: 10.31234/osf.io/jm3dr
+A preprint of the paper on PsyArXiv: https://doi.org/10.31234/osf.io/jm3d
 
 The contents of files:
 + ./
