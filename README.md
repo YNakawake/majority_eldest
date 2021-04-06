@@ -4,7 +4,7 @@ Nakawake, Y., & Stanford, M. (2021, April 5). Following Majority Rule versus Def
 
 A preprint of the paper on PsyArXiv: 10.31234/osf.io/jm3dr
 
-The contents of files
+The contents of files:
 + ./
     + Analysis-r.ipynb
         + analyses code condected with R, Jupyter-notebook format 
